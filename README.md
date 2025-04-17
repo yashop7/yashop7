@@ -32,7 +32,7 @@ TABLE OF CONTENTS
 
 ## Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,prisma,git,github,npm,vite,postman,docker,bash,unity,p5js,firebase,aws,prometheus,grafana,socketio,nextauth,recoil,monorepo,turborepo,figma&perline=12" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgresql,prisma,git,github,npm,bun,pnpm,yarn,vite,postman,docker,bash,java,firebase,aws,prometheus,grafana,socketio,nextauth,recoil,redux,monorepo,turborepo,figma&perline=12" alt="Skills" />
 </p>
 
 ## GitHub Stats

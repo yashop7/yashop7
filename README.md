@@ -20,13 +20,9 @@ TABLE OF CONTENTS
   <img src="https://hits.sh/github.com/yashop7/hits.svg?style=for-the-badge&label=Visitor%20Count&color=FFFFFF&labelColor=131820" alt="Visitor Count" style="border-radius: 0.5rem;" />
 </p>
 
-
-## About Me
-
-
 ## Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgresql,prisma,git,github,npm,bun,pnpm,yarn,vite,postman,docker,java,firebase,aws,prometheus,grafana,figma&perline=8" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgresql,prisma,git,github,npm,bun,pnpm,yarn,vite,postman,docker,java,firebase,aws,prometheus,grafana,figma,angular,c,py,redis,replit,rust,vscode,vercel&perline=8" alt="Skills" />
 </p>
 
 ## GitHub Stats
@@ -35,24 +31,14 @@ TABLE OF CONTENTS
   <a href="#github-stats" title="GitHub Stats"><img src="https://github-readme-stats.vercel.app/api?username=yashop7&theme=light&title_color=131820&icon_color=131820&bg_color=FFFFFF" alt="GitHub Stats" height="160" /></a>
   <a href="#github-stats" title="Top Languages"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashop7&layout=donut&theme=light&title_color=131820&icon_color=131820&bg_color=FFFFFF" alt="Top Languages" height="160" /></a>
   <!-- Dark Mode -->
-  <a href="#github-stats"><img src="https://github-readme-stats.vercel.app/api?username=yashop7&theme=dark&hide_border=true&bg_color=11151C" alt="GitHub Stats Dark" height="160" /></a>
-  <a href="#github-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashop7&layout=donut&theme=dark&hide_border=true&bg_color=11151C" alt="Top Languages Dark" height="160" /></a>
+<!--   <a href="#github-stats"><img src="https://github-readme-stats.vercel.app/api?username=yashop7&theme=dark&hide_border=true&bg_color=11151C" alt="GitHub Stats Dark" height="160" /></a>
+  <a href="#github-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashop7&layout=donut&theme=dark&hide_border=true&bg_color=11151C" alt="Top Languages Dark" height="160" /></a> -->
 </p>
-
-## Trophies & Achievements
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=yashop7"><img src="https://github-profile-trophy.vercel.app/?username=yashop7&theme=flat&rank=-&margin-w=15" alt="Trophies" /></a>
-  <a href="#"><img src="https://the-1riddle.github.io/Github-Profile-Achievements/badges/all.svg" alt="Achievements" /></a>
-</p>
-
 
 ## Contact & Social
 <p align="center">
   <a href="https://linkedin.com/in/yash-gussian-462611299"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/YASH25764536"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-</p>
-<p align="center">
   <a href="mailto:yashop7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://yashop7.github.io/blog"><img src="https://img.shields.io/badge/Blog-121212?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" /></a>
 </p>
 

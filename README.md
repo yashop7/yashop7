@@ -17,22 +17,16 @@ TABLE OF CONTENTS
 <p align="center">
   <a href="https://github.com/yashop7"><img src="https://img.shields.io/github/followers/yashop7?logo=github&style=for-the-badge&logoColor=white&labelColor=131820&color=FFFFFF" alt="Followers" /></a>
   <a href="https://github.com/yashop7"><img src="https://img.shields.io/github/stars/yashop7?logo=github&style=for-the-badge&logoColor=white&labelColor=131820&color=FFFFFF" alt="Stars" /></a>
-  <a href="https://github.com/sponsors/yashop7"><img src="https://img.shields.io/github/sponsors/yashop7?logo=github-sponsors&style=for-the-badge&logoColor=#EA4AAA&labelColor=131820&color=FFFFFF" alt="Sponsor" /></a>
-</p>
-
-## Visitor Count
-<p align="center">
   <img src="https://hits.sh/github.com/yashop7/hits.svg?style=for-the-badge&label=Visitor%20Count&color=FFFFFF&labelColor=131820" alt="Visitor Count" style="border-radius: 0.5rem;" />
 </p>
 
+
 ## About Me
-<p align="center">
-  💻 <strong>Software Engineer</strong> | 🎓 Computer Science Student | ⚙️ Web & Cloud Enthusiast
-</p>
+
 
 ## Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgresql,prisma,git,github,npm,bun,pnpm,yarn,vite,postman,docker,bash,java,firebase,aws,prometheus,grafana,socketio,nextauth,recoil,redux,monorepo,turborepo,figma&perline=12" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgresql,prisma,git,github,npm,bun,pnpm,yarn,vite,postman,docker,bash,java,firebase,aws,prometheus,grafana,socketio,nextauth,recoil,redux,monorepo,turborepo,figma&perline=10" alt="Skills" />
 </p>
 
 ## GitHub Stats

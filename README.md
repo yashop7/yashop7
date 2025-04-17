@@ -28,11 +28,11 @@ TABLE OF CONTENTS
 ## GitHub Stats
 <p align="center">
   <!-- Light Mode -->
-  <a href="#github-stats" title="GitHub Stats"><img src="https://github-readme-stats.vercel.app/api?username=yashop7&theme=light&title_color=131820&icon_color=131820&bg_color=FFFFFF" alt="GitHub Stats" height="160" /></a>
+<!--   <a href="#github-stats" title="GitHub Stats"><img src="https://github-readme-stats.vercel.app/api?username=yashop7&theme=light&title_color=131820&icon_color=131820&bg_color=FFFFFF" alt="GitHub Stats" height="160" /></a>
   <a href="#github-stats" title="Top Languages"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashop7&layout=donut&theme=light&title_color=131820&icon_color=131820&bg_color=FFFFFF" alt="Top Languages" height="160" /></a>
-  <!-- Dark Mode -->
-<!--   <a href="#github-stats"><img src="https://github-readme-stats.vercel.app/api?username=yashop7&theme=dark&hide_border=true&bg_color=11151C" alt="GitHub Stats Dark" height="160" /></a>
-  <a href="#github-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashop7&layout=donut&theme=dark&hide_border=true&bg_color=11151C" alt="Top Languages Dark" height="160" /></a> -->
+  <!-- Dark Mode --> 
+ <a href="#github-stats"><img src="https://github-readme-stats.vercel.app/api?username=yashop7&theme=dark&hide_border=true&bg_color=11151C" alt="GitHub Stats Dark" height="160" /></a>
+  <a href="#github-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashop7&layout=donut&theme=dark&hide_border=true&bg_color=11151C" alt="Top Languages Dark" height="160" /></a> 
 </p>
 
 ## Contact & Social

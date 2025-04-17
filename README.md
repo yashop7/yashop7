@@ -26,7 +26,7 @@ TABLE OF CONTENTS
 
 ## Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgresql,prisma,git,github,npm,bun,pnpm,yarn,vite,postman,docker,bash,java,firebase,aws,prometheus,grafana,socketio,nextauth,recoil,redux,monorepo,turborepo,figma&perline=10" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgresql,prisma,git,github,npm,bun,pnpm,yarn,vite,postman,docker,bash,java,firebase,aws,prometheus,grafana,recoil,figma&perline=10" alt="Skills" />
 </p>
 
 ## GitHub Stats

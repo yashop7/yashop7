@@ -1,47 +1,93 @@
-<section>
-  <section>
-    <a style="text-decoration: none;" href="https://github.com/yashop7">
-      <img src="https://img.shields.io/github/followers/yashop7?logo=github&style=for-the-badge&logoColor=white&labelColor=131820&color=FFFFFF" />
-    </a>
-    <a style="text-decoration: none;" href="https://github.com/yashop7">
-      <img src="https://img.shields.io/github/stars/yashop7?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge&logoColor=white&labelColor=131820&color=FFFFFF" />
-    </a>   
-      <a style="text-decoration: none;" href="https://github.com/yashop7">
-      <img style="border-radius:10px" src="https://hits.sh/github.com/yashop7/hits.svg?color=FFFFFF&labelColor=131820&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BR2l0Qm9vazwvdGl0bGU%2BPHBhdGggZD0iTTEwLjgwMiAxNy43N2EuNzAzLjcwMyAwIDExLS4wMDIgMS40MDYuNzAzLjcwMyAwIDAxLjAwMi0xLjQwNm0xMS4wMjQtNC4zNDdhLjcwMy43MDMgMCAxMS4wMDEtMS40MDYuNzAzLjcwMyAwIDAxLS4wMDEgMS40MDZtMC0yLjg3NmEyLjE3NiAyLjE3NiAwIDAwLTIuMTc0IDIuMTc0YzAgLjIzMy4wMzkuNDY1LjExNS42OTFsLTcuMTgxIDMuODIzYTIuMTY1IDIuMTY1IDAgMDAtMS43ODQtLjkzN2MtLjgyOSAwLTEuNTg0LjQ3NS0xLjk1IDEuMjE2bC02LjQ1MS0zLjQwMmMtLjY4Mi0uMzU4LTEuMTkyLTEuNDgtMS4xMzgtMi41MDIuMDI4LS41MzMuMjEyLS45NDcuNDkzLTEuMTA3LjE3OC0uMS4zOTItLjA5Mi42Mi4wMjdsLjA0Mi4wMjNjMS43MS45IDcuMzA0IDMuODQ3IDcuNTQgMy45NTYuMzYzLjE2OS41NjUuMjM3IDEuMTg1LS4wNTdsMTEuNTY0LTYuMDE0Yy4xNy0uMDY0LjM2OC0uMjI3LjM2OC0uNDc0IDAtLjM0Mi0uMzU0LS40NzctLjM1NS0uNDc3LS42NTgtLjMxNS0xLjY2OS0uNzg4LTIuNjU1LTEuMjUtMi4xMDgtLjk4Ny00LjQ5Ny0yLjEwNS01LjU0Ni0yLjY1NS0uOTA2LS40NzQtMS42MzUtLjA3NC0xLjc2NS4wMDZsLS4yNTIuMTI1QzcuNzggNi4wNDggMS40NiA5LjE3OCAxLjEgOS4zOTcuNDU3IDkuNzg5LjA1OCAxMC41Ny4wMDYgMTEuNTM5Yy0uMDggMS41MzcuNzAzIDMuMTQgMS44MjQgMy43MjdsNi44MjIgMy41MThhMi4xNzUgMi4xNzUgMCAwMDIuMTUgMS44NjIgMi4xNzcgMi4xNzcgMCAwMDIuMTczLTIuMTRsNy41MTQtNC4wNzNjLjM4LjI5OC44NTMuNDYxIDEuMzM3LjQ2MUEyLjE3NiAyLjE3NiAwIDAwMjQgMTIuNzJhMi4xNzYgMi4xNzYgMCAwMC0yLjE3NC0yLjE3NCIvPjwvc3ZnPg%3D%3D&label=Profile%20Views"/>
-    </a>
-  </section>
+<!--
+TABLE OF CONTENTS
+- [Badges](#badges)
+- [Visitor Count](#visitor-count)
+- [About Me](#about-me)
+- [Skills](#skills)
+- [GitHub Stats](#github-stats)
+- [Coding Activity](#coding-activity)
+- [Trophies & Achievements](#trophies--achievements)
+- [Pinned Projects](#pinned-projects)
+- [Visitor Map](#visitor-map)
+- [More Details](#more-details)
+- [Contact & Social](#contact--social)
+-->
 
-  <h3>Summary</h3>
+## Badges
+<p align="center">
+  <a href="https://github.com/yashop7"><img src="https://img.shields.io/github/followers/yashop7?logo=github&style=for-the-badge&logoColor=white&labelColor=131820&color=FFFFFF" alt="Followers" /></a>
+  <a href="https://github.com/yashop7"><img src="https://img.shields.io/github/stars/yashop7?logo=github&style=for-the-badge&logoColor=white&labelColor=131820&color=FFFFFF" alt="Stars" /></a>
+  <a href="https://github.com/sponsors/yashop7"><img src="https://img.shields.io/github/sponsors/yashop7?logo=github-sponsors&style=for-the-badge&logoColor=#EA4AAA&labelColor=131820&color=FFFFFF" alt="Sponsor" /></a>
+  <a href="https://github.com/yashop7"><img src="https://img.shields.io/github-readme-view-count/yashop7?style=for-the-badge&logo=readme&label=Profile%20Views&labelColor=131820&color=FFFFFF" alt="Profile Views" /></a>
+</p>
 
-  <p>computer science student | software engineer</p>
-</section>
+## Visitor Count
+<p align="center">
+  <img src="https://hits.sh/github.com/yashop7/hits.svg?style=for-the-badge&label=Visitor%20Count&color=FFFFFF&labelColor=131820" alt="Visitor Count" style="border-radius: 0.5rem;" />
+</p>
 
-<section>
-  <h2>Skills</h2>
+## About Me
+<p align="center">
+  💻 <strong>Software Engineer</strong> | 🎓 Computer Science Student | ⚙️ Web & Cloud Enthusiast
+</p>
 
-  <a href="https://github.com/yashop7">
-    <img src="https://skillicons.dev/icons?i=html,js,ts,css,bootstrap,cs,firebase,git,github,npm,p5js,postman,vite,unity,bash,next,tailwind,react,nodejs,java,python,figma&perline=12" />
-  </a>
-</section>
+## Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,prisma,git,github,npm,vite,postman,docker,bash,unity,p5js,firebase,aws,prometheus,grafana,socketio,nextauth,recoil,monorepo,turborepo,figma&perline=12" alt="Skills" />
+</p>
 
-<section>
-  <h2>Github Statistics</h2>
+## GitHub Stats
+<p align="center">
+  <!-- Light Mode -->
+  <a href="#github-stats" title="GitHub Stats"><img src="https://github-readme-stats.vercel.app/api?username=yashop7&theme=light&title_color=131820&icon_color=131820&bg_color=FFFFFF" alt="GitHub Stats" height="160" /></a>
+  <a href="#github-stats" title="Top Languages"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashop7&layout=donut&theme=light&title_color=131820&icon_color=131820&bg_color=FFFFFF" alt="Top Languages" height="160" /></a>
+  <!-- Dark Mode -->
+  <a href="#github-stats"><img src="https://github-readme-stats.vercel.app/api?username=yashop7&theme=dark&hide_border=true&bg_color=11151C" alt="GitHub Stats Dark" height="160" /></a>
+  <a href="#github-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashop7&layout=donut&theme=dark&hide_border=true&bg_color=11151C" alt="Top Languages Dark" height="160" /></a>
+</p>
 
-  <!-- LIGHT MODE -->
-  <a href="https://github.com/yashop7#gh-light-mode-only">
-      <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=yashop7&card_width=440&theme=light&title_color=131820&icon_color=131820" />
-  </a>
-  
-  <a href="https://github.com/yashop7#gh-light-mode-only">
-      <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashop7&layout=donut&theme=light&title_color=131820" />
-  </a>
-  
-  <!-- DARK MODE -->
-  <a href="https://github.com/yashop7#gh-dark-mode-only">
-      <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=yashop7&card_width=440&theme=github_dark&hide_border=true&bg_color=11151C" />
-  </a>
-  
-  <a href="https://github.com/yashop7#gh-dark-mode-only">
-      <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashop7&layout=donut&theme=github_dark&hide_border=true&bg_color=11151C" />
-  </a>
-</section>
+## Coding Activity
+<p align="center">
+  <img src="https://github.com/marketplace/actions/wakatime-coding-statistics" alt="WakaTime Stats" />
+</p>
+
+## Trophies & Achievements
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=yashop7"><img src="https://github-profile-trophy.vercel.app/?username=yashop7&theme=flat&rank=-&margin-w=15" alt="Trophies" /></a>
+  <a href="#"><img src="https://the-1riddle.github.io/Github-Profile-Achievements/badges/all.svg" alt="Achievements" /></a>
+</p>
+
+## Pinned Projects
+<p align="center">
+  <!-- Customize these with your repo names -->
+  <a href="https://github.com/yashop7/Repo1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yashop7&repo=Repo1&theme=light" alt="Repo1" /></a>
+  <a href="https://github.com/yashop7/Repo2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yashop7&repo=Repo2&theme=light" alt="Repo2" /></a>
+  <a href="https://github.com/yashop7/Repo3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yashop7&repo=Repo3&theme=light" alt="Repo3" /></a>
+</p>
+
+## Visitor Map
+<p align="center">
+  <!-- Example using umap or other external service -->
+  <img src="https://github.com/yashop7/visitor-map/raw/main/map.svg" alt="Visitor Map" />
+</p>
+
+## More Details
+<details>
+  <summary>▶️ Click to expand</summary>
+
+  - 🔭 I’m currently working on **Skizify**, a video‑call platform.  
+  - 🌱 I’m learning advanced **WebRTC** and **cloud scalability**.  
+  - 👯 I’m looking to collaborate on **open‑source fullstack** projects.  
+  - 💬 Ask me about **React**, **Tailwind** and **WebSockets**.  
+  - 📫 How to reach me: **yashop7@gmail.com**  
+  - ⚡ Fun fact: I love creating interactive **p5.js** sketches!  
+  - ![Funny GIF](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
+</details>
+
+## Contact & Social
+<p align="center">
+  <a href="https://linkedin.com/in/yash-gussian-462611299"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/YASH25764536"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:yashop7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://yashop7.github.io/blog"><img src="https://img.shields.io/badge/Blog-121212?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" /></a>
+</p>

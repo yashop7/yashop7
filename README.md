@@ -18,7 +18,6 @@ TABLE OF CONTENTS
   <a href="https://github.com/yashop7"><img src="https://img.shields.io/github/followers/yashop7?logo=github&style=for-the-badge&logoColor=white&labelColor=131820&color=FFFFFF" alt="Followers" /></a>
   <a href="https://github.com/yashop7"><img src="https://img.shields.io/github/stars/yashop7?logo=github&style=for-the-badge&logoColor=white&labelColor=131820&color=FFFFFF" alt="Stars" /></a>
   <a href="https://github.com/sponsors/yashop7"><img src="https://img.shields.io/github/sponsors/yashop7?logo=github-sponsors&style=for-the-badge&logoColor=#EA4AAA&labelColor=131820&color=FFFFFF" alt="Sponsor" /></a>
-  <a href="https://github.com/yashop7"><img src="https://img.shields.io/github-readme-view-count/yashop7?style=for-the-badge&logo=readme&label=Profile%20Views&labelColor=131820&color=FFFFFF" alt="Profile Views" /></a>
 </p>
 
 ## Visitor Count
@@ -57,32 +56,6 @@ TABLE OF CONTENTS
   <a href="#"><img src="https://the-1riddle.github.io/Github-Profile-Achievements/badges/all.svg" alt="Achievements" /></a>
 </p>
 
-## Pinned Projects
-<p align="center">
-  <!-- Customize these with your repo names -->
-  <a href="https://github.com/yashop7/Repo1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yashop7&repo=Repo1&theme=light" alt="Repo1" /></a>
-  <a href="https://github.com/yashop7/Repo2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yashop7&repo=Repo2&theme=light" alt="Repo2" /></a>
-  <a href="https://github.com/yashop7/Repo3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yashop7&repo=Repo3&theme=light" alt="Repo3" /></a>
-</p>
-
-## Visitor Map
-<p align="center">
-  <!-- Example using umap or other external service -->
-  <img src="https://github.com/yashop7/visitor-map/raw/main/map.svg" alt="Visitor Map" />
-</p>
-
-## More Details
-<details>
-  <summary>▶️ Click to expand</summary>
-
-  - 🔭 I’m currently working on **Skizify**, a video‑call platform.  
-  - 🌱 I’m learning advanced **WebRTC** and **cloud scalability**.  
-  - 👯 I’m looking to collaborate on **open‑source fullstack** projects.  
-  - 💬 Ask me about **React**, **Tailwind** and **WebSockets**.  
-  - 📫 How to reach me: **yashop7@gmail.com**  
-  - ⚡ Fun fact: I love creating interactive **p5.js** sketches!  
-  - ![Funny GIF](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
-</details>
 
 ## Contact & Social
 <p align="center">
